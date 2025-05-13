@@ -1,0 +1,6 @@
+Date,Transaction_ID,Description,Amount,Category,,
+2025-01-10,T1001,Payment from Client A,5000,Income,,
+2025-01-12,T1002,Office Supplies,-300,Expense,,
+2025-01-15,T1003,Freelance Project B,3500,Income,,
+2025-01-20,T1004,Travel - Business,-800,Expense,,
+2025-01-22,T1005,Payment from Client C,4500,Income,,
