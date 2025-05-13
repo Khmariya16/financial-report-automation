@@ -2,6 +2,7 @@
 
 This project automates the processing of financial data from CSV/Excel files. It generates a tax summary report, detects data inconsistencies (like missing or invalid values), and emails the reports to stakeholders — all using Python.
 
+ 
 ---
 
 
